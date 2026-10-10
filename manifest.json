@@ -1,0 +1,1 @@
+{"id":"./","name":"TOOLCOM Demo","short_name":"TOOLCOM","description":"Fictional wallet interface demo; no real payments are processed.","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#080b0a","theme_color":"#080b0a","icons":[{"src":"./assets/toolcom-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
